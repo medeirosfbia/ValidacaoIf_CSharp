@@ -1,0 +1,15 @@
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\bin\Debug\net6.0\ValidacaoIf.exe
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\bin\Debug\net6.0\ValidacaoIf.deps.json
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\bin\Debug\net6.0\ValidacaoIf.runtimeconfig.json
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\bin\Debug\net6.0\ValidacaoIf.dll
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\bin\Debug\net6.0\ValidacaoIf.pdb
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ValidacaoIf.csproj.AssemblyReference.cache
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ValidacaoIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ValidacaoIf.AssemblyInfoInputs.cache
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ValidacaoIf.AssemblyInfo.cs
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ValidacaoIf.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ValidacaoIf.dll
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\refint\ValidacaoIf.dll
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ValidacaoIf.pdb
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ValidacaoIf.genruntimeconfig.cache
+C:\Users\Beatriz\Documents\bia\C#\ValidacaoIf\ValidacaoIf\obj\Debug\net6.0\ref\ValidacaoIf.dll
